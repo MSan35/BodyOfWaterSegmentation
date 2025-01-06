@@ -8,7 +8,7 @@ This repository contains a U-Net model for detecting and segmenting bodies of wa
 2. [Requirements](#requirements)
 3. [Dataset](#dataset)
 4. [Testing](#testing)
-5. [License](#license)
+5. [Conclusion](#conclusion)
 
 ## Overview
 
@@ -43,13 +43,13 @@ Loss:\
 ![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/train_loss.png)
 
 Here are some tests on unseen data:\
-Test 1\
 ![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_1.png)
-Test 2\
 ![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_2.png)
-Test 3\
 ![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_3.png)
-Test 4\
 ![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_4.png)
 
+## Conclusion
+
+Looking at the tests on unseen data, the model clearly has a hard time when lighter colors are present in the image such as snow or city environments.\
+There is room for improvement but for the first iteration, the accuracy on seen data is great and when looking at darker colored land images such as the first and fourth test, we can see the model perform as expected.
 
