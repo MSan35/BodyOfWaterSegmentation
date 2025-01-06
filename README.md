@@ -1,4 +1,4 @@
-# Water Body Segmentation Model
+# Body of Water Segmentation Model
 
 This repository contains a U-Net model for detecting and segmenting bodies of water in satellite images. The model uses TensorFlow and Keras for training and inference.
 
