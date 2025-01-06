@@ -44,12 +44,12 @@ Loss:\
 
 Here are some tests on unseen data:\
 Test 1\
-![alt text]()
+![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_1.png)
 Test 2\
-![alt text]()
+![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_2.png)
 Test 3\
-![alt text]()
+![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_3.png)
 Test 4\
-![alt text]()
+![alt text](https://github.com/MSan35/BodyOfWaterSegmentation/blob/main/test_results/unseen_test_4.png)
 
 
